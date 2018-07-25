@@ -339,7 +339,7 @@
         { 
         echo "
             <div style='position: absolute; margin-left: -525px;'>
-            <label id='titulo2' style='margin-top:50px'>Preguntas y respuestas</label>
+            <label id='titulo4' style='margin-top:50px'>Preguntas y respuestas</label>
             <form action='RegistrarPregunta.php' method='post' onsubmit='return validar_Datos();'> 
                 <input type='hidden' name='Email_id' value='".$emailusuario."'>
                 <input type='hidden' name='id_viaje' value='".$idviaje."'>
